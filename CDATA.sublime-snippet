@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+<![CDATA[
+<![CDATA[${0:}]]${-1}>
+]]></content>
+    <tabTrigger>cdata</tabTrigger>
+    <description>CDATA</description>
+</snippet>
