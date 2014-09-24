@@ -7,5 +7,5 @@ for(; ${20:a0} < ${20:a0}Length; ${20:a0}++){
 ]]></content>
     <tabTrigger>for</tabTrigger>
     <scope>source.js</scope>
-    <description>for (…) {…} {up}</description>
+    <description>for (…) {…} {0++}</description>
 </snippet>
