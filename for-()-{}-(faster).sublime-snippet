@@ -1,8 +1,9 @@
 <snippet>
-    <content><![CDATA[for(var ${20:a0} = ${1:array}.length - 1; ${20:a0} >= 0; ${20:a0}--){
+    <content><![CDATA[var ${20:a0} = ${1:array}.length - 1;
+for(; ${20:a0} >= 0; ${20:a0}--){
 	${100:${1:array}[${20:a0}]}$0
 }]]></content>
     <tabTrigger>for</tabTrigger>
     <scope>source.js</scope>
-    <description>for (…) {…} (down)</description>
+    <description>for (…) {…} (length--)</description>
 </snippet>
